@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,OACE,aACF,CAEA,WACE,aAEF,CACA,aAFE,kBAIF","file":"main.c7ce29c8.chunk.css","sourcesContent":["figure {\r\n  margin: 0 20px;\r\n}\r\n\r\nfigcaption {\r\n  color: #8a8a8a;\r\n  text-align: justify;\r\n}\r\np {\r\n  text-align: justify;\r\n}\r\n"]}
